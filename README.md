@@ -4,6 +4,9 @@ A personal e-book platform built with PHP, MySQL, and vanilla JavaScript.
 
 **Live demo:** [tahagenc.com/tools/ThgBook](https://tahagenc.com/tools/ThgBook)
 
+To try the store, register an account and contact me for a free redeem code:
+**info@tahagenc.com**
+
 ## Features
 
 - EPUB and PDF reader with reading progress tracking
