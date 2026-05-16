@@ -28,4 +28,4 @@ To try the store, register an account and contact me for a free redeem code:
 1. Clone the repo
 2. Copy `includes/db.php.example` to `includes/db.php` and fill in your database credentials
 3. Import `setup/schema.sql` into your MySQL database
-4. Deploy to any PHP 8.1+ server
+4. Deploy to any PHP 8.1+ server 
